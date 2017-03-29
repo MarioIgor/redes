@@ -1,11 +1,15 @@
-# Integrantes: 
-Mário Igor e Francisco Mariano.
+# Redes de computadores
 
-# Linguagem de programação: 
-Java.
+## Integrantes: 
+- Mário Igor 
+- Francisco Mariano.
 
-# Instruções: 
-Abrir projeto (preferencialmente no NetBeans) e executar as classes prog/Cliente.java e prog/Servidor.java.
+## Linguagem de programação: 
+- Java.
 
-# Funcionalidades extras (na ordem em que foram apresentadas): 
-1, 2, 5, 6 e 7 nos arquivos ClientePrincipal.java, ServidorPrincipal.java, ComunicacaoTCP.java
+## Instruções: 
+- Abrir projeto (preferencialmente no NetBeans) 
+- Executar as classes prog/Cliente.java e prog/Servidor.java.
+
+## Funcionalidades extras (na ordem em que foram apresentadas): 
+- 1, 2, 5, 6 e 7 nos arquivos ClientePrincipal.java, ServidorPrincipal.java, ComunicacaoTCP.java
