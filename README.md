@@ -1,5 +1,3 @@
-# Redes de computadores 2
-
 # Integrantes: 
 Mário Igor e Francisco Mariano.
 
